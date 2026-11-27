@@ -1,0 +1,2 @@
+this is branch b2 file.
+a cloud-based platform for hosting code, tracking changes, and collaborating on software projects using the Git version control system. 

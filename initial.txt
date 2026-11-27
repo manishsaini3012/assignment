@@ -1,2 +1,6 @@
 this is initial file.
 some content in initial file.
+
+GitHub is a cloud-based developer platform.
+
+It gives developers and teams a central place to store repositories, review code, manage tasks, and automate workflows.
